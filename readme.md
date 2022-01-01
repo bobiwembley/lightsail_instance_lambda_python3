@@ -16,7 +16,7 @@ When you use lightsail, you  have a reduced and simplify infrastructure with ins
 ### From your laptop and you just need to start instances on lightsail AWS
 
 #### **Prerequisite**
-You have to aws cli configure on you laptop, a personnal access Token and you user IAM have the right policy to access to lightsail.
+You have to aws cli configure on you laptop, a personnal access Token and your user IAM have the right policy to access to lightsail.
 
 ````
 aws configure
