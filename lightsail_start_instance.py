@@ -1,5 +1,4 @@
 import json
-from sre_parse import State
 import boto3
 
 from botocore.exceptions import ClientError
